@@ -1,6 +1,6 @@
 ## Hi, I'm Mustafa 👋
 
-Welcome to my GitHub profile! I'm a Student/Researcher with a passion for Networking, Software Development, Cyber Security. I enjoy working on open-source projects, contributing to the community, and building innovative solutions to solve real-world problems.
+Welcome to my GitHub profile! I'm a Network Engineer with a passion for Networking, Software Development, Cyber Security. I enjoy working on open-source projects, contributing to the community, and building innovative solutions to solve real-world problems.
 
 
 🚀 About Me
